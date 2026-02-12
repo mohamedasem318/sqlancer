@@ -11,7 +11,7 @@
 # SQLancer
 **An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws.**
 
-![ghauri-banner](https://user-images.githubusercontent.com/11024397/193408429-418a75e0-a070-4491-9f92-5799b2509cdf.PNG)
+![SQLancer](images/banner.png)
 
 ## ***Requirements***
 
